@@ -1,0 +1,32 @@
+body{
+  background: bisque;
+}
+.maindiv{
+  background: aqua;
+  margin: 3%;
+  border-radius: 3%;
+  display: flex;
+  justify-content: space-around;
+}
+.leftdiv{
+  background: pink;
+  margin: 3%;
+  border-radius: 2%;
+  box-shadow: 3px 3px 3px 3px grey;
+  text-align: center;
+  padding:1%;
+  position: fixed;
+width:25%;
+
+}
+.rightdiv{
+  background: lightgreen;
+  margin: 3%;
+  border-radius: 2%;
+
+}
+img{
+  margin: 3%;
+  height: 50%;
+  width: 80%;
+}
